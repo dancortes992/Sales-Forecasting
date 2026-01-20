@@ -9,17 +9,17 @@ The project will focus on the analysis of the provided dataset with the goal of 
 
 ### Dataset features:
 
-Name (name of game)
-Platform (platform of game release)
-Year of release (year of game release)
-Genre (game genre)
-Na_Sales (North America sales in USD million)
-Eu_Sales (Sales in Europe USD in million)
-Jp_sales (Sales in Japan in USD million
-Other_sales (Sales in other countries in USD million)
-Critic_score (maximum of 100)
-User_score (maximun of 10)
-Rating (ESRB Rating)
+- Name (name of game)
+- Platform (platform of game release)
+- Year of release (year of game release)
+- Genre (game genre)
+- Na_Sales (North America sales in USD million)
+- Eu_Sales (Sales in Europe USD in million)
+- Jp_sales (Sales in Japan in USD million
+- Other_sales (Sales in other countries in USD million)
+- Critic_score (maximum of 100)
+- User_score (maximun of 10)
+- Rating (ESRB Rating)
 
 Data for 2016 is specified to be potentially incomplete.
 
