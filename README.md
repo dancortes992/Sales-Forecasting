@@ -33,4 +33,6 @@ Statistical comparision between ratings and platforms / genres.
 
 ## Software
 
-**Libraries:** _python_, _pandas_, _matplotlib_, _SciPy_, _seaborn_
+**Tools:** _python_
+
+**Libraries:** _pandas_, _matplotlib_, _SciPy_, _seaborn_
